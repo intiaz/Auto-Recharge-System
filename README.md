@@ -6,3 +6,4 @@
 
 * Auto Recharge System
 * 2.0
+* Download https://github.com/intiaz/Auto-Recharge-System/blob/master/Auto%20Recharge%20System.zip?raw=true
