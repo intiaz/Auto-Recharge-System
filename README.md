@@ -1,29 +1,20 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+'Auto Recharge System' is advanced and user friendly Automatic Mobile Top-up/Recharge software developed by Intiaz Ahmed.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Auto Recharge System
+* 2.0
 
-### How do I get set up? ###
+git push -u origin master
+git push -u github master
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+echo "# Auto-Recharge-System" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/intiaz/Auto-Recharge-System.git
+git push -u origin master
