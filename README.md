@@ -4,6 +4,5 @@
 
 ### What is this repository for? ###
 
-* Auto Recharge System
-* 2.0
-* Download https://github.com/intiaz/Auto-Recharge-System/blob/master/Auto%20Recharge%20System.zip?raw=true
+* Auto Recharge System 2.0
+* `Download Auto Recharge System <https://github.com/intiaz/Auto-Recharge-System/blob/master/Auto%20Recharge%20System.zip?raw=true>`_
